@@ -1,4 +1,4 @@
-                                                                          DOWNLOAD TIME CALCULATOR
+DOWNLOAD TIME CALCULATOR
 
 Hey guys welcome to one of my first projects on tkinter.
 I started tkintering recently and made this Download Time Calculator .
