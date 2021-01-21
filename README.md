@@ -1,6 +1,6 @@
 DOWNLOAD TIME CALCULATOR
 
-Hey guys welcome to one of my first projects on tkinter.
+Hey guys welcome to one of my first projects on python tkinter.
 I started tkintering recently and made this Download Time Calculator .
 This ones a basic tkinter project which calculates the time a file will take to download .
 You can input your file size and your download speed and calculate the time taken with just a single button.
